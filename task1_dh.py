@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Task 1: Diffie–Hellman key exchange + AES-CBC messaging.
 
 This script implements a full DH exchange, derives an AES-128 key from the
